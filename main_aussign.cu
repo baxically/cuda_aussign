@@ -60,7 +60,7 @@ int main ()
 	int numTestSamples=769;
 	int numFeatures=22;
 	
-	int numValidSamples=0;
+	int numValidSamples=531;
 	int numTrainSamples=numTrainSampOrig-numValidSamples;
 	
 	
